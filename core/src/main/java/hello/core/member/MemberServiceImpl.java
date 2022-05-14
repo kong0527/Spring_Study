@@ -1,5 +1,9 @@
 package hello.core.member;
 
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+
+@Component
 public class MemberServiceImpl implements MemberService {
 
     // ctrl shift enter 하면 ;까지 자동으로 쳐짐
@@ -9,6 +13,7 @@ public class MemberServiceImpl implements MemberService {
     // 수정
     private final MemberRepository memberRepository;
 
+    @Autowired // 의존관계를 자동으로 연결해서 주입 - ac.getBean(MemberRepository.class) 처럼 동작
     public MemberServiceImpl(MemberRepository memberRepository) {
         this.memberRepository = memberRepository;
     }
