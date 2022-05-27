@@ -43,7 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/LDCC/Downloads/spring/core/src/test/java/hello/core/scan/filter",
+    "last_opened_file_path": "C:/Users/LDCC/Downloads/spring/core/src/test/java/hello/core/autowired",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -54,6 +54,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LDCC\Downloads\spring\core\src\test\java\hello\core\autowired" />
       <recent name="C:\Users\LDCC\Downloads\spring\core\src\test\java\hello\core\scan\filter" />
     </key>
   </component>
@@ -93,7 +94,7 @@
       <updated>1653611521446</updated>
       <workItem from="1653614494858" duration="604000" />
       <workItem from="1653615175091" duration="126000" />
-      <workItem from="1653615326615" duration="2311000" />
+      <workItem from="1653615326615" duration="7686000" />
     </task>
     <servers />
   </component>

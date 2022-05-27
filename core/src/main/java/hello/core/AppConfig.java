@@ -17,6 +17,13 @@ public class AppConfig {
     // @Bean orderService -> new MemoryMemberRepository()
     // MemoryMemberRepository()가 두 번 호출되는데, 싱글톤이 깨지는 것일까?
 
+    // 필드 주입
+    @Autowired
+    private MemberRepository memberRepository;
+
+    @Autowired
+    private DiscountPolicy discountPolicy;
+
     @Bean // 메소드들이 스프링 컨테이너에 등록됨
     public MemberService memberService() {
         System.out.println("call AppConfig.memberService");
@@ -33,6 +40,7 @@ public class AppConfig {
     public OrderService orderService() {
         System.out.println("AppConfig.orderService");
         return new OrderServiceImpl(memberRepository(), discountPolicy());
+//        return null;
     }
 
     @Bean
