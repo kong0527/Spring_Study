@@ -28,3 +28,13 @@
 5. [HTTP 메서드 활용](https://github.com/kong0527/Spring_Study/blob/master/%EB%AA%A8%EB%93%A0%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20HTTP%20%EC%9B%B9%20%EA%B8%B0%EB%B3%B8%20%EC%A7%80%EC%8B%9D/5.%20HTTP%20%EB%A9%94%EC%84%9C%EB%93%9C%20%ED%99%9C%EC%9A%A9.md)
 6. [HTTP 상태 코드](https://github.com/kong0527/Spring_Study/blob/master/%EB%AA%A8%EB%93%A0%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20HTTP%20%EC%9B%B9%20%EA%B8%B0%EB%B3%B8%20%EC%A7%80%EC%8B%9D/6.%20HTTP%20%EC%83%81%ED%83%9C%20%EC%BD%94%EB%93%9C.md)
 7. [HTTP 헤더1 일반헤더](https://github.com/kong0527/Spring_Study/blob/master/%EB%AA%A8%EB%93%A0%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20HTTP%20%EC%9B%B9%20%EA%B8%B0%EB%B3%B8%20%EC%A7%80%EC%8B%9D/7.%20HTTP%20%ED%97%A4%EB%8D%941%20%EC%9D%BC%EB%B0%98%ED%97%A4%EB%8D%94.md)
+
+<br/>
+
+#### [자바 ORM 표준 JPA 프로그래밍 - 기본편](https://www.inflearn.com/course/ORM-JPA-Basic)
+
+🗓 수강기간 : 22.06.28 ~
+
+1. [JPA 소개](https://github.com/kong0527/Spring_Study/blob/master/%EC%9E%90%EB%B0%94%20ORM%20%ED%91%9C%EC%A4%80%20JPA%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20-%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/1.%20JPA%20%EC%86%8C%EA%B0%9C.md)
+2. [JPA 시작](https://github.com/kong0527/Spring_Study/blob/master/%EC%9E%90%EB%B0%94%20ORM%20%ED%91%9C%EC%A4%80%20JPA%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20-%20%EA%B8%B0%EB%B3%B8%ED%8E%B8/2.%20JPA%20%EC%8B%9C%EC%9E%91.md)
+
